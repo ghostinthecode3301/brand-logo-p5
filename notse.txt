@@ -1,0 +1,2 @@
+Point.x = (1-t)^2 * P0.x + 2 * (1-t) * t * P1.x + t^2 * P2.x;
+Point.y = (1-t)^2 * P0.y + 2 * (1-t) * t * P1.y + t^2 * P2.y
